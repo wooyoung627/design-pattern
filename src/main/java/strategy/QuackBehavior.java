@@ -1,4 +1,4 @@
-package src.main.strategy;
+package main.java.strategy;
 
 public interface QuackBehavior {
     public void quack();

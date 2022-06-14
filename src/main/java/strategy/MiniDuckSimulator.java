@@ -1,4 +1,4 @@
-package src.main.strategy;
+package main.java.strategy;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
